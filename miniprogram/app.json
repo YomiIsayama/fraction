@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/profile/profile",
+    "pages/rank/rank",
+    "pages/register/register"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "07180945杨远炜",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
